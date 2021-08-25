@@ -10,3 +10,4 @@ of the previous class.
 5) Java program to reverse a String(using loop)
 6) Java program to reverse a String(using recursion)
 7) Java program to reverse a String(using StringBuffer)
+8) Write a java program to check if two Strings are anagram in java(Using String methods)
