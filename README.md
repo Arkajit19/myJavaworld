@@ -9,3 +9,4 @@ of the previous class.
 4) Write a program to count occurence of number of vowels in an user input string.
 5) Java program to reverse a String(using loop)
 6) Java program to reverse a String(using recursion)
+7) Java program to reverse a String(using StringBuffer)
