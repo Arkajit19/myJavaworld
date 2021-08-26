@@ -12,3 +12,11 @@ of the previous class.
 7) Java program to reverse a String(using StringBuffer)
 8) Write a java program to check if two Strings are anagram in java(Using String methods)
 9) Write a java program to check if two Strings are anagram in java(Using Array sort)
+10) Write a Java program to print the result of the following operations.
+	Test Data:
+	a. -5 + 8 * 6
+	b. (55+9) % 9
+	c. 20 + -3*5 / 8
+	d. 5 + 15 / 3 * 2 - 8 % 3
+
+11)
