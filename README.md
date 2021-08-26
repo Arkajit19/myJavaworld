@@ -24,4 +24,17 @@ of the previous class.
 13)Write a Java program to solve quadratic equations (use if, else if and else).<br>
 14)Write a Java program to create a new array list, add some colors (string) and print out the collection.<br>
 15)Create a java program to check whether a number is Armstrong number or not!<br>
+16)Create a student class having data members- “roll”, “name”; Have the constructors which 
+will be parameterizable, object passable and including the default constructor in it. In main 
+class test each constructor.<br>
+17)Create program which will print the area of rectangle or circle as per provided inputs, using 
+polymorphism.<br>
+18)Create a class “Event” having data members- “name”, “time”; there will be “acceptName”, 
+“acceptTime” and “show” methods defined. Now two classes "footballMatch" and 
+"musicConcert" will be inherited from “Event” class. Use “super” and “this” keyword where 
+required and make some suitable changes in inherited classes and finally print all the details 
+of those two classes’ data members.<br>
+19)Write a Java program to insert an element into the array list at the first position.<br>
+20)Write a Java program to retrieve an element (at a specified index) from a given array list.<br>
+
 
