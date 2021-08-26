@@ -23,3 +23,5 @@ of the previous class.
 12)Write a Java program to get a number from the user and print whether it is positive or negative.<br>
 13)Write a Java program to solve quadratic equations (use if, else if and else).<br>
 14)Write a Java program to create a new array list, add some colors (string) and print out the collection.<br>
+15)Create a java program to check whether a number is Armstrong number or not!<br>
+
