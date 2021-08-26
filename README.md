@@ -21,3 +21,4 @@ of the previous class.
 
 11)Write a Java program that takes two numbers as input and display the product of two numbers.
 12)Write a Java program to get a number from the user and print whether it is positive or negative.
+13)Write a Java program to solve quadratic equations (use if, else if and else).
