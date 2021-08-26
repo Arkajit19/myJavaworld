@@ -19,6 +19,7 @@ of the previous class.
 	c. 20 + -3*5 / 8
 	d. 5 + 15 / 3 * 2 - 8 % 3
 
-11)Write a Java program that takes two numbers as input and display the product of two numbers.
-12)Write a Java program to get a number from the user and print whether it is positive or negative.
-13)Write a Java program to solve quadratic equations (use if, else if and else).
+11)Write a Java program that takes two numbers as input and display the product of two numbers.<br>
+12)Write a Java program to get a number from the user and print whether it is positive or negative.<br>
+13)Write a Java program to solve quadratic equations (use if, else if and else).<br>
+14)Write a Java program to create a new array list, add some colors (string) and print out the collection.<br>
