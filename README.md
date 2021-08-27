@@ -36,5 +36,5 @@ required and make some suitable changes in inherited classes and finally print a
 of those two classes’ data members.<br>
 19)Write a Java program to insert an element into the array list at the first position.<br>
 20)Write a Java program to retrieve an element (at a specified index) from a given array list.<br>
-
+21)Write a Java program to update specific array element by given element.<br>
 
