@@ -38,3 +38,4 @@ of those two classes’ data members.<br>
 20)Write a Java program to retrieve an element (at a specified index) from a given array list.<br>
 21)Write a Java program to update specific array element by given element.<br>
 22)Take three numbers from the user and print the greatest number.<br>
+23)The StringTokenizer class that tokenizes a string "My name is Arkajit" on the basis of whitespace.<br>
